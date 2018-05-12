@@ -24,6 +24,8 @@ description: 'Astro has managed to talk Tom and Roger into coming to Venus for s
   vacation. He''s got perfect summer work for the three of them: he''s got a little
   business hunting down tyrannosauri and selling the carcasses to restaurants. But
   stranger stuff than dinos is on the horizon ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19027#The-Revolt-on-Venus
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-08-11'
 gutenberg_type: Text
